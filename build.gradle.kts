@@ -2,8 +2,8 @@ plugins {
     kotlin("jvm") version "2.2.21"
 }
 
-group = "kotlin.org.example.lessons.lesson04"
-version = "1.0-SNAPSHOT"
+group = "org.example.kotlin-course"
+version = "0.8.0"
 
 repositories {
     mavenCentral()
